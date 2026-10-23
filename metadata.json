@@ -1,0 +1,6 @@
+{
+  "name": "docLove",
+  "description": "Plateforme professionnelle d'outils PDF et traduction de documents dans toutes les langues avec abonnement mensuel de 8 € pour traduire jusqu'à 2 000 pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

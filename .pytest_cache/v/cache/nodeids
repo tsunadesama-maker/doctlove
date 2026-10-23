@@ -1,0 +1,15 @@
+[
+  "backend/app/tests/test_docutrad.py::test_docx_translation_and_style_preservation",
+  "backend/app/tests/test_docutrad.py::test_file_validation_reject_oversized",
+  "backend/app/tests/test_docutrad.py::test_file_validation_reject_unauthorized_extension",
+  "backend/app/tests/test_docutrad.py::test_file_validation_valid_docx",
+  "backend/app/tests/test_docutrad.py::test_file_validation_valid_pdf",
+  "backend/app/tests/test_docutrad.py::test_page_limit_free_tier",
+  "backend/app/tests/test_docutrad.py::test_pdf_translation_produces_non_empty_file",
+  "backend/app/tests/test_docutrad.py::test_pricing_quotes",
+  "backend/app/tests/test_docutrad.py::test_scanned_pdf_detection",
+  "backend/app/tests/test_docutrad.py::test_translation_entity_preservation",
+  "backend/app/tests/test_docutrad.py::test_translation_paragraph_order_preservation",
+  "backend/app/tests/test_docutrad.py::test_translation_short_text",
+  "backend/app/tests/test_docutrad.py::test_unsupported_language_handling"
+]
